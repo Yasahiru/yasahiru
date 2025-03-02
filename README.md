@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Self**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://yasahiru.github.io/Portfolio/](https://yasahiru.github.io/Portfolio/)
 
